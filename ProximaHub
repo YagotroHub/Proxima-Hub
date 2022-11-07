@@ -1,0 +1,10 @@
+elseif game.PlaceId == 3851622790 or game.PlaceId == 4620170611 then -- Break In [LOBBY] / [IN GAME]
+    loadstring(game:HttpGet(""))()
+    
+elseif game.PlaceId == 3956818381 then -- Ninja Legends
+    loadstring(game:HttpGet(""))()
+elseif game.PlaceId == 3823781113 then -- Saber Simulator
+    loadstring(game:HttpGet(""))()
+ 
+elseif game.PlaceId == 8540346411 then -- Rebirth Champions X
+    loadstring(game:HttpGet(''))()
